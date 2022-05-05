@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grow.AI.WebApi", "Grow.AI.WebApi\Grow.AI.WebApi.csproj", "{231D893E-23E9-4453-BBCC-A646B841D8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231D893E-23E9-4453-BBCC-A646B841D8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231D893E-23E9-4453-BBCC-A646B841D8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231D893E-23E9-4453-BBCC-A646B841D8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231D893E-23E9-4453-BBCC-A646B841D8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB73FAED-836D-479F-A9F8-ADB58A13BB22}
+	EndGlobalSection
+EndGlobal
